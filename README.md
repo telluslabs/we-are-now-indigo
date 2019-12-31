@@ -1,2 +1,3 @@
-# we-are-now-indigo
-TellusLabs is now Indigo Agriculture's GeoInnovation team
+# TellusLabs has joined the Indigo Agriculture team!
+
+The TellusLabs team has joined Indigo Agriculture as the new GeoInnovation team.  [Learn more here](http://bit.ly/atlas-insights-support).
