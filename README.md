@@ -10,6 +10,5 @@ To learn more, check out [this great piece in *WIRED*](http://bit.ly/2THSj4J)
 
 Thank you everyone for all of your support.  Stay in touch!
 
- > The Indigo GeoInnovation Team
- > 
+ > The Indigo GeoInnovation Team <br>
  > [GeoInnovation@indigoag.com](mailto:GeoInnovation@indigoag.com)
